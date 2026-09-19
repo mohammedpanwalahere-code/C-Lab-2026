@@ -12,6 +12,6 @@ int main() {
             old = 1;
         }
         sum += 1.0 / (old);
-        printf("%f", sum);
     }
+    printf("%f", sum);
 }
